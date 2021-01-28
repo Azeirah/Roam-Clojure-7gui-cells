@@ -1,10 +1,6 @@
 # cells.core
 
-FIXME: Write a one-line description of your library/project.
-
-## Overview
-
-FIXME: Write a paragraph about the library/project and highlight its goals.
+Repository for the 7th 7gui challenge, the spreadsheet. Run lein:build to have this project open in your browser.
 
 ## Development
 
