@@ -1,0 +1,1 @@
+{"version":3,"file":"\/home\/laura\/.cljs\/.aot_cache\/1.10.773\/4E14D67\/devtools\/version.js","sources":["version.cljs"],"lineCount":9,"mappings":";AAAA;;AAGA,AAAKA,mCAAgB;AAErB,uCAAA,vCAAMC;AAAN,AACED","names":["devtools.version\/current-version","devtools.version\/get-current-version"]}

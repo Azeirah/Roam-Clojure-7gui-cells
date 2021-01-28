@@ -1,0 +1,27 @@
+/* some style */
+
+* {
+    box-sizing: content-box;
+    margin: 0;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    font-family: sans-serif;
+    min-width: 80px;
+    border: 1px solid gray;
+}
+
+td > input {
+    border: none;
+    width: 100%;
+    padding: 0;
+}
+
+tr td:first-child, th {
+    border: none;
+    user-select: none;
+}
